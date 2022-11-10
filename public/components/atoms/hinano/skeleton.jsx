@@ -7,6 +7,12 @@ const skeleton = () => {
       asdfsadf
       sadfsadf
       sadfsadfasd
+      asdfajskdhfbkajsdf[]asdfjashbflk
+      asdfasldkfj
+
+
+
+      takumi is testing
     </span>
   )
 }
