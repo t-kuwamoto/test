@@ -2,9 +2,9 @@ import React from 'react'
 
 const skeleton = () => {
   return (
-    <div>
+    <span>
       This is a test file
-    </div>
+    </span>
   )
 }
 
